@@ -15,6 +15,7 @@ import java.util.ArrayList;
 /**
  * Created by jt on 12/20/17.
  */
+//http://localhost:8080/swagger-ui.html
 @EnableSwagger2
 @Configuration
 public class SwaggerConfig { //} extends WebMvcConfigurationSupport {
